@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logmebot.Net.Client</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>pigeonlabs</authors>
+    <owners>pigeonlabs</owners>
+    <licenseUrl>https://www.logmebot.com</licenseUrl>
+    <projectUrl>https://github.com/logmebot/logmebot-dotnet</projectUrl>
+    <iconUrl>https://www.logmebot.com/logo.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET wrapper for LogMeBot API.</description>
+    <releaseNotes>Initial package deploy.</releaseNotes>
+    <copyright>Copyright Logmebot 2017</copyright>
+    <tags>oauth authetication login access provider qrcode</tags>
+  </metadata>
+</package>
